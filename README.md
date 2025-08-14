@@ -1,9 +1,3 @@
-# Rainfall-prediction-
-Rainfall prediction using Machine Learning
-I’ve reviewed the start of your notebook — it’s a **Rainfall Prediction Project** using Python, pandas, matplotlib, seaborn, machine learning models (SVM, XGBoost, Logistic Regression), and oversampling for imbalanced data.
-
-I can now prepare a **professional GitHub-ready README.md** for your repository.
-Here’s the detailed version:
 
 ---
 
